@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQYACgAAAAAAAAAAAAAAAAAAACACACIAAAAAAAAAAAAAAAAAICIAGiIiIcAAAAAAAAAAAAAAAAAeGiIZmh4hwgAAAAAAAAAAAAAAIB3ZmiGiHd2CAAAAAAAAAAAiICIeHd2h4iGaHcIAAAAAAAAAICGaIZ2Z3eHaIaId4gAAAAAAABgaIZmiHd3d2aGiHiHZggAAAAAAHZmiIhohnZnZoiGeHaHCAAAAACAd3ZohmiId3eHaIZod4gIAP8AAGhnd2aIiGh3d4ZmiHZndob/7gBmd3dnhmiGiHZniIiIiGh3iO7+YHd3d3eHZohod3dmhoiId4fo7u5gd3d3d4aIiHZ3Z2aIiHZ3Z+ju/wBmd3dnZoiIiGh3iIaIeHdmhu7+AABoZ3dohohod3eHZoiIdmaG/+4AAIB3doiIaIh3d2dohnd3hwgA/wAAAHZmaIZohnZnhoiIeHaHCAAAAAAAYGiGZoh3d3dmiGZ4h2YIAAAAAAAAgIaIiHZnd2aGaGZ3iAgAAAAAAAAAiACIaHd2h4iIaHcIAAAAAAAAAAAAAAAAeGeGaIZ3dggAAAAAAAAAAAAAAACAh2aIZniHCAAAAAAAAAAAAAAAAACIaAiIiIcAAAAAAAAAAAAAAAAAAACACACACAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "forestTree1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
